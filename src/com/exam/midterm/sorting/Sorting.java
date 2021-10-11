@@ -6,7 +6,7 @@ package com.exam.midterm.sorting;
  * Description: Sorting Algorithm
  */
 
-public class InsertionSort {
+public class Sorting {
     public static void main(String[] args ) {
 
         //provide your own values
